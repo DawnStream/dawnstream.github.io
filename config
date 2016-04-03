@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "deploy"]
+	url = git@private-github.com:DawnStream/dawnstream.github.io.git
+	fetch = +refs/heads/*:refs/remotes/deploy/*
