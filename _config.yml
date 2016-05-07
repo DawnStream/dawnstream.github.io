@@ -11,7 +11,7 @@ email:
 description: > # this means to ignore newlines until "baseurl:"
   Right now this is just a test to have a new hosted blog platform using Jekyll.
   I can write on whatever I want.
-baseurl: "/dawnstream" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
 #github_username:  jekyll
